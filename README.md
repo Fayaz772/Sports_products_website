@@ -14,7 +14,7 @@ Website Home Page:
  
 
 <img width="1061" height="590" alt="image" src="https://github.com/user-attachments/assets/79d0fe65-fc87-4a8a-9882-69c9e4f0c137" />
-<img width="1061" height="590" alt="image" src="https://github.com/user-attachments/assets/0f435b4a-a9bd-4a82-8ef0-4ebcfa87c6c0" />
+
 <img width="1023" height="313" alt="image" src="https://github.com/user-attachments/assets/35482577-3dd2-47ff-8c0d-ed88a5341bb3" />
 
 <img width="940" height="418" alt="image" src="https://github.com/user-attachments/assets/e2a11262-6986-486b-be79-8dac048d1725" />
@@ -33,7 +33,7 @@ Feedback Form:
 
  
 Contact Page:
-
+<br>
  <img width="940" height="456" alt="image" src="https://github.com/user-attachments/assets/205c2762-61d5-4473-947a-48779229b7f7" />
 
 
